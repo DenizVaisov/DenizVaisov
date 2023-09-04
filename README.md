@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+, I'm Deniz Vaisov, fullstack software engineer
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DenizVaisov&layout=compact)]()
 ![4heck's github stats](https://github-readme-stats.vercel.app/api?username=DenizVaisov&show_icons=true&include_all_commits=true&count_private=true)
