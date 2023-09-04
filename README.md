@@ -2,7 +2,7 @@
 I'm Deniz Vaisov, fullstack software engineer.
 
 🔭 I’m currently working on:
-- Backend project - development of the server side, support and development of new functional desktop applications for banks, automation of applied banking tasks, and support for legacy code.
+- Backend project, support and development of new functional desktop applications for banks, automation of applied banking tasks, and support for legacy code.
 
 ⚡ My current stack for dev:
 - С#, ASP.NET Core(MVC, WebAPI), MSSQL, T-SQL, PostgreSQL, EntityFramework Core, Dapper, Identity Server, SignalR Core, NUnit, Postman.
