@@ -5,13 +5,11 @@ I'm Deniz Vaisov, fullstack software engineer.
 - Backend project, support and development of new functional desktop applications for banks, automation of applied banking tasks, and support for legacy code.
 
 ⚡ My technology stack:
-- С#, ASP.NET Core(MVC, WebAPI)
+- С#, ASP.NET Core(MVC, WebAPI), Postman
 - EntityFramework Core, Dapper, Identity Server, SignalR Core
-- MSSQL, T-SQL, PostgreSQL
-- Postman.
-- JS, Vue.js, Vuex, Sentry, VueRouter, Blazor (wasm)
+- SQL, MSSQL, T-SQL, PostgreSQL
+- JS, Axios, Vue.js, Vuex, Sentry, VueRouter, Blazor (wasm)
 - Material design, Bootstrap, VueBootstrap
-- Axios.
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DenizVaisov&layout=compact)]()
 ![4heck's github stats](https://github-readme-stats.vercel.app/api?username=DenizVaisov&show_icons=true&include_all_commits=true&count_private=true)
