@@ -10,7 +10,6 @@ I'm Deniz Vaisov, fullstack software engineer.
 - EntityFramework Core, Dapper, Identity Server, SignalR Core
 - SQL, MSSQL, T-SQL, PostgreSQL
 - JS, Axios, Vue.js, Vuex, Sentry, VueRouter, Blazor (wasm)
-- Material design, Bootstrap, VueBootstrap
 
 ### 🌱 I’m currently learning
 - Docker, Kubernetes and other DevOps practices
