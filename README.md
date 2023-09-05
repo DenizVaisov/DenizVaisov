@@ -6,6 +6,7 @@ I'm Deniz Vaisov, fullstack software engineer.
 
 ### ⚡ My technology stack
 - С#, ASP.NET Core(MVC, WebAPI), Postman
+- Asynchronous programming
 - EntityFramework Core, Dapper, Identity Server, SignalR Core
 - SQL, MSSQL, T-SQL, PostgreSQL
 - JS, Axios, Vue.js, Vuex, Sentry, VueRouter, Blazor (wasm)
@@ -14,8 +15,7 @@ I'm Deniz Vaisov, fullstack software engineer.
 ### 🌱 I’m currently learning
 - Docker, Kubernetes and other DevOps practices
 - Microservice architecture, Kafka, Redis chache, RabbitMQ 
-- Multithreading, Parallel programming
-- Design Patterns
+- Parallel programming
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DenizVaisov&layout=compact)]()
 ![DenizVaisov's github stats](https://github-readme-stats.vercel.app/api?username=DenizVaisov&show_icons=true&include_all_commits=true&count_private=true)
