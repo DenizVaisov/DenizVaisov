@@ -1,10 +1,15 @@
 ### Hi everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm Deniz Vaisov, fullstack software engineer.
+I'm Deniz Vaisov, .NET software engineer.
 
 ### 🔭 I’m currently working on
 - Backend project, support and development of new functional desktop applications for banks, automation of applied banking tasks, and support for legacy code.
 
 ### ⚡ My technology stack
+<div >
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="GitLab" title="GitLab"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET Core" title=".NET Core"/></code>
+</div>
 - С#, ASP.NET Core(MVC, WebAPI), Postman
 - Asynchronous programming
 - EntityFramework Core, Dapper, Identity Server, SignalR Core
