@@ -1,9 +1,3 @@
-### Hi everyone <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm Deniz Vaisov, .NET software engineer.
-
-### 🔭 I’m currently working on
-- Backend project, support and development of new functional applications for banks, automation of applied banking tasks, and support for legacy code.
-
 ### ⚡ My technology stack
 - С#, ASP.NET Core(MVC, WebAPI), Postman
 - Asynchronous programming
