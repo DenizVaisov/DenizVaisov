@@ -34,8 +34,8 @@ Tools
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/></code>
 </div>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DenizVaisov&layout=compact)]()
 <!--
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DenizVaisov&layout=compact)]
 **DenizVaisov/DenizVaisov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
